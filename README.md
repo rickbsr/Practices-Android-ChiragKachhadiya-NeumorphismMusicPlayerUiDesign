@@ -3,7 +3,7 @@ Practices Series：Android
 
 ---
 
-![](pics/practices-musicplayeruidesign.png)
+![](pics/practices-neumorphismmusicplayeruidesign.png)
 
 ---
 
