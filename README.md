@@ -1,5 +1,5 @@
 # ChiragKachhadiya  NeumorphismMusicPlayerUiDesign
-專案練習：（Android）ChiragKachhadiya NeumorphismMusicPlayerUiDesign
+實戰項目（Android）：ChiragKachhadiya NeumorphismMusicPlayerUiDesign
 
 ---
 
