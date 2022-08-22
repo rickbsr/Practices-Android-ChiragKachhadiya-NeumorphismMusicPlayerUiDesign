@@ -24,3 +24,6 @@ Practices Series：Android
 |:---------------------------------:|
 | ![](pics/musicplayeruidesign.png) |
 
+---
+
+###### tags: `Android` `Java`
