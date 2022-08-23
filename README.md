@@ -1,5 +1,5 @@
 # ChiragKachhadiya  NeumorphismMusicPlayerUiDesign
-實戰項目（Android）：ChiragKachhadiya NeumorphismMusicPlayerUiDesign
+實戰系列（Android）：ChiragKachhadiya NeumorphismMusicPlayerUiDesign
 
 ---
 
